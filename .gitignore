@@ -1,0 +1,17 @@
+# Build folder
+build/
+
+# VSCode files
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Other temporary files
+*.exe
+*.obj
+*.log
+*.pdb
